@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java ,apps script, Python, c++, Java script, CSS, HTML, SQL, Angula, Spring boot.<br>
+Atuo na área de ti, curso engenharia da computação, geralmente atuo com banco de dados, Infra em geral.<br>
 
 
 ## 🌐 Socials:
