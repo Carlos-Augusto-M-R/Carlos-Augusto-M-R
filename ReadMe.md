@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atuo na área de ti, curso engenharia da computação, geralmente atuo com banco de dados, Infra em geral.<br>
+Atuo na área de TI infra em geral, curso engenharia da computação, geralmente atuo com banco de dados .<br>
 
 
 ## 🌐 Socials:
